@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Benjamin Centurion 👋</h1>
+<h1 align="center">Hola, soy Benja 👋</h1>
 <h3 align="center">Frontend Developer | HTML • CSS • JavaScript</h3>
 
 <p align="center">
@@ -30,12 +30,12 @@
 ### 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CenturionBenjamin&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CenturionBenjamin&layout=compact&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=CenturionBenjamin&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CenturionBenjamin&layout=compact&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CenturionBenjamin&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=CenturionBenjamin&hide_border=true" width="60%" />
 </p>
 
 ---
