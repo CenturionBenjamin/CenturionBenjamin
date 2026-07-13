@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Benjamin Centurion 👋</h1>
+<h1 align="center">Hola, soy Benja 👋</h1>
 <h3 align="center">Frontend Developer | HTML • CSS • JavaScript</h3>
 
 <p align="center">
@@ -30,20 +30,20 @@
 ### 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CenturionBenjamin&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CenturionBenjamin&layout=compact&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CenturionBenjamin&hide_border=true" width="60%" />
 </p>
 
 ---
 
 ### 🚀 Proyectos destacados
 
-- **[EcoFinance](enlace)** — Ecofinance — Página web sobre finanzas, con contenido informativo y diseño responsive. Construida con HTML, CSS y JavaScript.
-- **[Sportline](enlace)** — Sportline — Sitio web para mi agencia deportiva, desarrollado con HTML, CSS y JavaScript. Presenta los servicios de la agencia con un diseño enfocado en la experiencia del usuario.
+- **[Sportline](enlace)** — Sitio web para mi agencia deportiva, desarrollado con HTML, CSS y JavaScript. Presenta los servicios de la agencia con un diseño enfocado en la experiencia del usuario.
+- **[Ecofinance](enlace)** — Página web sobre finanzas, con contenido informativo y diseño responsive. Construida con HTML, CSS y JavaScript.
 
 ---
 
