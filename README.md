@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Benja 👋</h1>
+<h1 align="center">Hola, soy Benjamin Centurion 👋</h1>
 <h3 align="center">Frontend Developer | HTML • CSS • JavaScript</h3>
 
 <p align="center">
