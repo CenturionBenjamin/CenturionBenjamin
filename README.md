@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Benja 👋</h1>
+<h1 align="center">Hola, soy Benjamin Centurion 👋</h1>
 <h3 align="center">Frontend Developer | HTML • CSS • JavaScript</h3>
 
 <p align="center">
@@ -42,8 +42,8 @@
 
 ### 🚀 Proyectos destacados
 
-- **[Nombre del proyecto](enlace)** — breve descripción de qué hace y qué tecnologías usaste.
-- **[Nombre del proyecto](enlace)** — breve descripción de qué hace y qué tecnologías usaste.
+- **[EcoFinance](enlace)** — Ecofinance — Página web sobre finanzas, con contenido informativo y diseño responsive. Construida con HTML, CSS y JavaScript.
+- **[Sportline](enlace)** — Sportline — Sitio web para mi agencia deportiva, desarrollado con HTML, CSS y JavaScript. Presenta los servicios de la agencia con un diseño enfocado en la experiencia del usuario.
 
 ---
 
